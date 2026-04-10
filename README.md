@@ -1,4 +1,3 @@
-## Hi there 👋
 🌱 **Repositories** 🌱
 
 | Topic | Title | Resource | Publication |
